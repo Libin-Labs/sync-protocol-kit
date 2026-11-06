@@ -1,0 +1,10 @@
+{
+  "protocol": "lp-sync",
+  "version": 1,
+  "id": "change-1",
+  "kind": "changes",
+  "payload": {
+    "cursor": "page:7",
+    "changes": [{ "entity": "note", "key": "n-1", "value": { "text": "hello" } }]
+  }
+}

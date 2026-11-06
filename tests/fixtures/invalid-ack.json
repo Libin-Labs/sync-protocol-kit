@@ -1,0 +1,10 @@
+{
+  "protocol": "lp-sync",
+  "version": 1,
+  "id": "bad-ack",
+  "kind": "ack",
+  "payload": {
+    "messageId": "change-1",
+    "accepted": "yes"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "protocol": "lp-sync",
+  "version": 1,
+  "id": "hello-1",
+  "kind": "hello",
+  "payload": {
+    "capabilities": {
+      "versions": [1],
+      "features": ["batch", "cursor-resume"],
+      "maxBatchSize": 64,
+      "acknowledgements": true,
+      "cursors": true
+    }
+  }
+}

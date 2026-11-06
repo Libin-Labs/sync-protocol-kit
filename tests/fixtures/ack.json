@@ -1,0 +1,11 @@
+{
+  "protocol": "lp-sync",
+  "version": 1,
+  "id": "ack-1",
+  "kind": "ack",
+  "payload": {
+    "messageId": "change-1",
+    "accepted": true,
+    "cursor": "page:8"
+  }
+}

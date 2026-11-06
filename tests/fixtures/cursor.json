@@ -1,0 +1,10 @@
+{
+  "protocol": "lp-sync",
+  "version": 1,
+  "id": "cursor-1",
+  "kind": "cursor",
+  "payload": {
+    "stream": "notes",
+    "token": null
+  }
+}
